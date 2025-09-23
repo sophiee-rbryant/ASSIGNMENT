@@ -12,7 +12,7 @@ Our team will design from concept to working prototype an embedded system device
 |----------|----------------------------|-----------------------------|----------------------------|
 | Luke Jeffs |             Discord               |               Phone              |            Email                |
 | Daniel Resnick |                            |                             |                            |
-| Sophie Bryant |                            |                             |                            |
+| Sophie Bryant |              Phone            |                Discord           |              Email            |
 | Tyler Dean|                            |                             |                            |
 
 ## Roles & Responsibilities
